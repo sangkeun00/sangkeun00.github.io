@@ -15,7 +15,7 @@ author: Simon Schwab
 # for a normal use at the base of the server change it to "/"
 baseurl: /
 title: Sangkeun Choe
-name: Sang Keun Choe
+name: Sangkeun Choe
 email: sangkeuc@cs.cmu.edu
 email_full: mailto:sangkeuc@cs.cmu.edu
 website: sangkeun00.github.io
@@ -30,6 +30,7 @@ institution: Carnegie Mellon University
 address: 5000 Forbes Avenue
 postcode: 15213
 city: Pittsburgh
+state: PA
 country: United States
 google_analytics: UA-72106507-1
 
