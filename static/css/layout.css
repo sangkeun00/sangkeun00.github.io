@@ -5,8 +5,8 @@ body {
     font-size: 15px;
     line-height: 21px;
     color: rgb(48, 48, 48);
-    border-top: 5px solid #49a473;
-    border-bottom: 5px solid #49a473;
+    border-top: 5px solid #000055;
+    border-bottom: 5px solid #000055;
 }
 
 .container {
@@ -19,16 +19,16 @@ a {
 }
 
 a:visited {
-    color: #2f8ab7;
+    color: #277cad;
 }
 
 a:link {
-    color: #32a3db;
+    color: #277cad;
 }
 
 
 a:hover, a:focus {
-    color: #32a3db;
+    color: #7FBF7F;
 }
 
 p, address {
@@ -36,8 +36,8 @@ p, address {
 }
 
 .me {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 175px;
     border-radius: 50px;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
@@ -45,7 +45,7 @@ p, address {
 }
 
 header > h1, section > h1 {
-    color: #49a473;
+    color: #000065;
 }
 
 header > h1 {
