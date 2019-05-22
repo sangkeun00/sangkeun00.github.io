@@ -43,24 +43,24 @@
         <p>
             <!-- {{ site.tel }}<br> -->
             <a href="{{ site.email_full }}">E-Mail</a><br>
+            <a href="https://github.com/{{ site.github }}"><i class="github"></i> Github</a> /
+            <!--<a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i> Twitter</a><br>-->
+            <a href="https://docs.google.com/document/d/1IBh7VZYixf04qNPmR5IRHayYYGiQNqPeLBhS-xJIUTE/export?format=pdf">CV</a>
+            <!--
+            <a href="https://docs.google.com/document/d/17QHny7TjNk43L_mdeArc_aGxoM5gthHZLnUjd3txDq0/export?format=pdf">Publication List</a>-->
         </p>
 
         <address>
-            <a href="{{ site.google_maps }}">
+            <a href="{{ site.affiliation }}">
                 {{ site.institution }}<br>
                 {{ site.department }}<br>
                 <!--{{ site.address }}<br>-->
-                {{ site.city }} {{ site.state }}<br>
+                {{ site.city }}, {{ site.state }}<br>
                 {{ site.country }}
             </a>
         </address>
 
-        <p>
-            <a href="https://github.com/{{ site.github }}"><i class="github"></i> Github</a> /
-            <!--<a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i> Twitter</a><br>-->
-            <a href="https://docs.google.com/document/d/1IBh7VZYixf04qNPmR5IRHayYYGiQNqPeLBhS-xJIUTE/export?format=pdf">CV</a><br>
-            <a href="https://docs.google.com/document/d/17QHny7TjNk43L_mdeArc_aGxoM5gthHZLnUjd3txDq0/export?format=pdf">Publication List</a>
-        </p>
+
 
         <!--
         <p>My research is supported by:</p>
