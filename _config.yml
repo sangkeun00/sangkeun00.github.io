@@ -14,23 +14,23 @@ author: Simon Schwab
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /
-title: Simon Schwab
-name: Simon Schwab
-email: simon.schwab@uzh.ch
-email_full: mailto:simon.schwab@uzh.ch
-website: schw4b.github.io
-website_full: https://schw4b.github.io
-github: schw4b
-twitter: SimonSchw4b
+title: Sangkeun Choe
+name: Sang Keun Choe
+email: sangkeuc@cs.cmu.edu
+email_full: mailto:sangkeuc@cs.cmu.edu
+website: sangkeun00.github.io
+website_full: https://sangkeun00.github.io
+github: sangkeun00
+twitter: sangkeun_choe
 # tel: +44 (0)24 7657 3665
 # tel_full: tel:+440000000000
 google_maps: 'https://goo.gl/maps/bKEm3tdhccmZRhMi8'
 department: Center for Reproducible Science
 institution: University of Zurich
 address: Hirschengraben 84
-postcode: 8001
-city: Zurich
-country: Switzerland
+postcode: 15213
+city: Pittsburgh
+country: United States
 google_analytics: UA-72106507-1
 
 # needed for travis-ci build
