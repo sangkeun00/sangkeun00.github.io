@@ -1,30 +1,37 @@
-url: "https://sangkeun00.github.io"
-baseurl: ""
+highlighter: rouge
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://schw4b.github.io
+author: Simon Schwab
 
-# Site settings
-title: Sangkeun Choe
-email: sangkeun00@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+# edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /
+title: Simon Schwab
+name: Simon Schwab
+email: simon.schwab@uzh.ch
+email_full: mailto:simon.schwab@uzh.ch
+website: schw4b.github.io
+website_full: https://schw4b.github.io
+github: schw4b
+twitter: SimonSchw4b
+# tel: +44 (0)24 7657 3665
+# tel_full: tel:+440000000000
+google_maps: 'https://goo.gl/maps/bKEm3tdhccmZRhMi8'
+department: Center for Reproducible Science
+institution: University of Zurich
+address: Hirschengraben 84
+postcode: 8001
+city: Zurich
+country: Switzerland
+google_analytics: UA-72106507-1
 
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/sangkeun_choe
-  - title: facebook
-    url: https://www.facebook.com/sangkeun.choe/
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/sangkeun00
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+# needed for travis-ci build
+exclude: [vendor]
