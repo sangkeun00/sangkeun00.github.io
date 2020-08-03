@@ -1,17 +1,22 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
 
 body {
+    /*font-family: "Raleway", Helvetica, Arial, sans-serif;*/
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 21px;
     color: rgb(48, 48, 48);
-    border-top: 5px solid #000055;
-    border-bottom: 5px solid #000055;
+    border-top: 5px solid #2c2c2c93;
+    border-bottom: 5px solid #2c2c2c93;
 }
 
 .container {
     margin-top: 50px;
 }
+
+/*img {
+    filter: grayscale(95%);
+}*/
 
 a {
     text-decoration: none;
@@ -19,16 +24,16 @@ a {
 }
 
 a:visited {
-    color: #277cad;
+    color: #252525;
 }
 
 a:link {
-    color: #277cad;
+    color: #252525;
 }
 
 
 a:hover, a:focus {
-    color: #7FBF7F;
+    color: #DB7093;
 }
 
 p, address {
@@ -45,12 +50,15 @@ p, address {
 }
 
 header > h1, section > h1 {
-    color: #000065;
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #303030;
 }
 
 header > h1 {
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
     line-height: 100%;
-    font-size: 150%;
+    font-size: 140%;
     margin-bottom: 20px;
 }
 
@@ -77,8 +85,9 @@ article {
 }
 
 article > header > h2 {
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
     font-size: 100%;
-    font-weight: bold;
+    font-weight: 550;
     line-height: 150%;
     margin-bottom: 0;
     color: inherit;
