@@ -41,8 +41,8 @@ p, address {
 }
 
 .me {
-    width: 157px;
-    height: 181px;
+    width: 180px;
+    height: 207px;
     border-radius: 50px;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
@@ -58,7 +58,7 @@ header > h1, section > h1 {
 header > h1 {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     line-height: 100%;
-    font-size: 140%;
+    font-size: 150%;
     margin-bottom: 20px;
 }
 
@@ -75,7 +75,7 @@ section {
 }
 
 section > h1 {
-    font-size: 140%;
+    font-size: 150%;
     line-height: 120%;
     text-transform: uppercase;
 }
@@ -88,8 +88,8 @@ article > header > h2 {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     color: #505050;
     font-size: 105%;
-    font-weight: 550;
-    line-height: 150%;
+    font-weight: 510;
+    line-height: 130%;
     margin-bottom: 0;
 }
 
