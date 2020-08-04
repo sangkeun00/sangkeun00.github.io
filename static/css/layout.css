@@ -5,7 +5,7 @@ body {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 21px;
-    color: rgb(48, 48, 48);
+    color: #505050;
     border-top: 5px solid #2c2c2c93;
     border-bottom: 5px solid #2c2c2c93;
 }
@@ -24,11 +24,11 @@ a {
 }
 
 a:visited {
-    color: #505050;
+    color: #050505;
 }
 
 a:link {
-    color: #505050;
+    color: #050505;
 }
 
 
@@ -43,10 +43,10 @@ p, address {
 .me {
     width: 180px;
     height: 207px;
-    border-radius: 50px;
+    /*border-radius: 50px;
     -webkit-border-radius: 50px;
-    -moz-border-radius: 50px;
-    margin-bottom: 20px;
+    -moz-border-radius: 50px;*/
+    margin-bottom: 10px;
 }
 
 header > h1, section > h1 {
@@ -86,9 +86,9 @@ article {
 
 article > header > h2 {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
-    color: #505050;
-    font-size: 105%;
-    font-weight: 510;
+    color: #050505;
+    font-size: 107%;
+    font-weight: normal;
     line-height: 130%;
     margin-bottom: 0;
 }
