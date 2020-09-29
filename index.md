@@ -70,7 +70,7 @@ Sungkyung Chang, Juheon Lee, **Sangkeun Choe**, and Kyogu Lee. <a href="https://
 **Summa Cum Laude**, *Seoul National University*.
 
 `2011`
-**Presidential Scholarship for Science and Engineering Study**, *KOSAF*.
+**Presidential Scholarship for Science and Engineering Study**, *Korea Student Aid Foundation*.
 
 `2011`
 **Gold Medal**, *Korea Collegiate Mathematical Competition*.
