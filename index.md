@@ -66,6 +66,9 @@ Sungkyung Chang, Juheon Lee, **Sangkeun Choe**, and Kyogu Lee. Audio Cover Song 
 `2018`
 **Best Undergraduate Engineering Student Award**, *Seoul National University*.
 
+`2018`
+**Summa Cum Laude**, *Seoul National University*.
+
 `2011`
 **Presidential Scholarship for Science and Engineering Study**, *KOSAF*.
 
