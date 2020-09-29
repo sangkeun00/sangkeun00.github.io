@@ -12,8 +12,8 @@ My research interests are broadly in stochastic optimization (primarily for deep
 <!--<a href="sangkeuc@cs.cmu.edu">sangkeuc@cs.cmu.edu</a>-->
 
 <div id="webaddress">
-  <a href="sangkeuc@cs.cmu.edu"><i class="fa fa-envelope-open"></i> sangkeuc@cs.cmu.edu</a> | 
-  <a href="sangkeuc@cs.cmu.edu"><i class="fas fa-file-pdf"></i> Resume</a> | 
+  <a href="sangkeuc@cs.cmu.edu"><i class="fa fa-envelope-open"></i> sangkeuc@cs.cmu.edu</a> |
+  <a href="sangkeuc@cs.cmu.edu"><i class="fas fa-file-pdf"></i> Resume</a> |
   <a href="https://github.com/sangkeun00"><i class="fab fa-github"></i> sangkeun00</a>
   <!--<a href="https://sangkeun00.github.io"><i class="fas fa-home"></i> sangkeun00.github.io</a>-->
   <!--<a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>-->
@@ -79,9 +79,7 @@ Sungkyung Chang, Juheon Lee, **Sangkeun Choe**, and Kyogu Lee. Audio Cover Song 
 ## Teaching
 
 `2018`
-*Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-- \- Conducting scientific research (with Tapani Rämö)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
+**Artificial Intelligence: Representation and Problem Solving**, *Carnegie Mellon University*.
 
 
 ## Miscellaneous
