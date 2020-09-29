@@ -13,7 +13,7 @@ My research interests are broadly in stochastic optimization (primarily for deep
 
 <div id="webaddress">
   <a href="sangkeuc@cs.cmu.edu"><i class="fa fa-envelope-open"></i> sangkeuc@cs.cmu.edu</a> |
-  <a href="sangkeuc@cs.cmu.edu"><i class="fas fa-file-pdf"></i> Resume</a> |
+  <a href="resume.pdf"><i class="fas fa-file-pdf"></i> Resume</a> |
   <a href="https://github.com/sangkeun00"><i class="fab fa-github"></i> sangkeun00</a>
   <!--<a href="https://sangkeun00.github.io"><i class="fas fa-home"></i> sangkeun00.github.io</a>-->
   <!--<a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>-->
