@@ -159,14 +159,14 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color:#9932CC
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #39f;
+	color: #9932CC;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
