@@ -131,7 +131,7 @@ h1 {
 h1+p { 
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 100%;
 }
 
 h2 {
@@ -168,7 +168,7 @@ a:hover {
 	left: 25%;
 	color: #BA55D3;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
+	font-size: 80%;
 }
 
 #webaddress a {
