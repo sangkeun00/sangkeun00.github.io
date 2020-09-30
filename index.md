@@ -87,7 +87,7 @@ Sungkyung Chang, Juheon Lee, **Sangkeun Choe**, and Kyogu Lee. <a href="https://
 
 ## Miscellaneous
 
-When I am not working, I spend most of my time playing with my lil pupper, Betty. (<a href="https://www.instagram.com/bettyberry___" style="color:#BA55D3; text-decoration:none"><i class="fab fa-instagram"></i> bettyberry___</a>)
+I spend most of *my spare time* playing with my lil pupper, Betty. (<a href="https://www.instagram.com/bettyberry___" style="color:#BA55D3; text-decoration:none"><i class="fab fa-instagram"></i> bettyberry___</a>)
 
 <img src="./assets/betty.jpg" alt="betty" width="53%" height="auto">
 
