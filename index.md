@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Sangkeun Choe
+title: Sang Keun Choe
 ---
-# Sangkeun Choe
+# Sang Keun Choe
 
 ## Background
 I am a first-year CS PhD student in Language Technologies Institute at Carnegie Mellon University, and fortunate to be advised by <a href="http://www.cs.cmu.edu/~epxing/">Prof. Eric Xing</a>. Previously, I completed my MS in computer science at CMU under the guidance of <a href="https://www.cs.cmu.edu/~jgc/">Prof. Jaime Carbonell</a>. Prior to CMU, I earned BS in Electrical Engineering and Mathematics from Seoul National University.
