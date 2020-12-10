@@ -84,7 +84,7 @@ Sungkyung Chang, Juheon Lee, **Sangkeun Choe**, and Kyogu Lee. <a href="https://
 
 ## Teaching
 
-`2018`
+`2020`
 **Artificial Intelligence: Representation and Problem Solving**, *Carnegie Mellon University*.
 
 
