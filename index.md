@@ -47,6 +47,8 @@ Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qi
 
 Sungkyung Chang, Juheon Lee, **Sangkeun Choe**, and Kyogu Lee. <a href="https://arxiv.org/abs/1712.00166">Audio Cover Song Identification using Convolutional Neural Network</a>. *International Conference on Acoustics, Speech, and Signal Processing (Short ver.: Workshop on ML4Audio at NIPS)*, 2018.
 
+(&#42; indicates equal contributions)
+
 
 ## Experience
 
