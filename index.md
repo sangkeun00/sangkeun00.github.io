@@ -41,7 +41,7 @@ Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qi
 
 **Sangkeun Choe**&#42;, Hosan Jeong&#42;, and Jaime Carbonell. <a href="https://sites.google.com/view/sedl-workshop/past-editions/2019-main/2019-contributed-posters?authuser=0">On Orthogonal Jacobian Regularization in Deep Neural Networks</a>. *Workshop on Science meets Engineering of Deep Learning at NeurIPS*, 2019.
 
-**Sangkeun Choe**&#42;, Quanyang Lu&#42;, Vikas Raunak&#42;, Yi Xu&#42;, and Florian Metze. <a href="https://arxiv.org/pdf/1910.02754.pdf">On Leveraging the Visual Modality for Neural Machine Translation</a>. *International Conference on Natural Language Generation (Short ver.: Workshop on New Tasks for Vision and Language at ICML)*, 2019.
+Vikas Raunak&#42;, **Sangkeun Choe**&#42;, Quanyang Lu&#42;, Yi Xu&#42;, and Florian Metze. <a href="https://arxiv.org/pdf/1910.02754.pdf">On Leveraging the Visual Modality for Neural Machine Translation</a>. *International Conference on Natural Language Generation (Short ver.: Workshop on New Tasks for Vision and Language at ICML)*, 2019.
 
 **Sangkeun Choe**&#42;, Quanyang Lu&#42;, Vikas Raunak&#42;, Yi Xu&#42;, and Florian Metze. <a href="https://srvk.github.io/how2-challenge/assets/authors/TH2_paper_7.pdf">On Leveraging Visual Modality for ASR Error Correction</a>. *Workshop on New Tasks for Vision and Language at ICML*, 2019.
 
