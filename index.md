@@ -37,13 +37,13 @@ My research interests are broadly in neural networks *optimization*, and large-s
 ## Publications
 
 <!--*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*-->
-Aurick Qiao, Sang Keun Choe, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, Eric P. Xing. <a href="https://sangkeun00.github.io">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a>. *In Submission*, 2020.
+Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, Eric P. Xing. <a href="https://sangkeun00.github.io">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a>. *In Submission*, 2020.
 
-**Sangkeun Choe**, Hosan Jeong, and Jaime Carbonell. <a href="https://sites.google.com/view/sedl-workshop/past-editions/2019-main/2019-contributed-posters?authuser=0">On Orthogonal Jacobian Regularization in Deep Neural Networks</a>. *Workshop on Science meets Engineering of Deep Learning at NeurIPS*, 2019.
+**Sangkeun Choe**&#42;, Hosan Jeong&#42;, and Jaime Carbonell. <a href="https://sites.google.com/view/sedl-workshop/past-editions/2019-main/2019-contributed-posters?authuser=0">On Orthogonal Jacobian Regularization in Deep Neural Networks</a>. *Workshop on Science meets Engineering of Deep Learning at NeurIPS*, 2019.
 
-**Sangkeun Choe**, Quanyang Lu, Vikas Raunak, Yi Xu, and Florian Metze. <a href="https://arxiv.org/pdf/1910.02754.pdf">On Leveraging the Visual Modality for Neural Machine Translation</a>. *International Conference on Natural Language Generation (Short ver.: Workshop on New Tasks for Vision and Language at ICML)*, 2019.
+**Sangkeun Choe**&#42;, Quanyang Lu&#42;, Vikas Raunak&#42;, Yi Xu&#42;, and Florian Metze. <a href="https://arxiv.org/pdf/1910.02754.pdf">On Leveraging the Visual Modality for Neural Machine Translation</a>. *International Conference on Natural Language Generation (Short ver.: Workshop on New Tasks for Vision and Language at ICML)*, 2019.
 
-**Sangkeun Choe**, Quanyang Lu, Vikas Raunak, Yi Xu, and Florian Metze. <a href="https://srvk.github.io/how2-challenge/assets/authors/TH2_paper_7.pdf">On Leveraging Visual Modality for ASR Error Correction</a>. *Workshop on New Tasks for Vision and Language at ICML*, 2019.
+**Sangkeun Choe**&#42;, Quanyang Lu&#42;, Vikas Raunak&#42;, Yi Xu&#42;, and Florian Metze. <a href="https://srvk.github.io/how2-challenge/assets/authors/TH2_paper_7.pdf">On Leveraging Visual Modality for ASR Error Correction</a>. *Workshop on New Tasks for Vision and Language at ICML*, 2019.
 
 Sungkyung Chang, Juheon Lee, **Sangkeun Choe**, and Kyogu Lee. <a href="https://arxiv.org/abs/1712.00166">Audio Cover Song Identification using Convolutional Neural Network</a>. *International Conference on Acoustics, Speech, and Signal Processing (Short ver.: Workshop on ML4Audio at NIPS)*, 2018.
 
