@@ -7,7 +7,7 @@ title: Sangkeun Choe
 ## Background
 I am a first-year CS PhD student in Language Technologies Institute at Carnegie Mellon University, and fortunate to be advised by <a href="http://www.cs.cmu.edu/~epxing/">Prof. Eric Xing</a>. Previously, I completed my MS in computer science at CMU under the guidance of <a href="https://www.cs.cmu.edu/~jgc/">Prof. Jaime Carbonell</a>. Prior to CMU, I earned BS in Electrical Engineering and Mathematics from Seoul National University.
 
-My research interests are broadly in stochastic optimization (primarily for deep neural networks), and large-scale distributed machine learning.
+My research interests are broadly in neural networks *optimization*, and large-scale *distributed* machine learning.
 
 <!--<a href="sangkeuc@cs.cmu.edu">sangkeuc@cs.cmu.edu</a>-->
 
@@ -37,6 +37,7 @@ My research interests are broadly in stochastic optimization (primarily for deep
 ## Publications
 
 <!--*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*-->
+Aurick Qiao, Sang Keun Choe, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, Eric P. Xing. <a href="https://sangkeun00.github.io">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a>. *In Submission*, 2020.
 
 **Sangkeun Choe**, Hosan Jeong, and Jaime Carbonell. <a href="https://sites.google.com/view/sedl-workshop/past-editions/2019-main/2019-contributed-posters?authuser=0">On Orthogonal Jacobian Regularization in Deep Neural Networks</a>. *Workshop on Science meets Engineering of Deep Learning at NeurIPS*, 2019.
 
