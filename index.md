@@ -52,10 +52,10 @@ My research interests are broadly in large-scale distributed machine learning an
 
 ## Experience
 
-`2021 Summer`
+`Summer 2021`
 **Research Intern**, *Microsoft Research*, USA.
 
-`2018.04-2018.07`
+`Summer 2018`
 **Research Engineer**, *HodooAI*, South Korea.
 
 `2014-2016`
