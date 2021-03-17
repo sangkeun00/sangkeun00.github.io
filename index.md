@@ -37,7 +37,7 @@ My research interests are broadly in neural networks *optimization*, and large-s
 ## Publications
 
 <!--*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*-->
-<a href="https://sangkeun00.github.io">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a>.<br>Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, Eric P. Xing.<br>*In OSDI*, 2021.
+**<a href="https://sangkeun00.github.io">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a>**<br>Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, Eric P. Xing<br>*In OSDI*, 2021
 
 **Sangkeun Choe**&#42;, Hosan Jeong&#42;, and Jaime Carbonell. <a href="https://sites.google.com/view/sedl-workshop/past-editions/2019-main/2019-contributed-posters?authuser=0">On Orthogonal Jacobian Regularization in Deep Neural Networks</a>. *In Workshop on Science meets Engineering of Deep Learning at NeurIPS*, 2019.
 
