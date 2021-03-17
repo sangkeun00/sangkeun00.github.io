@@ -7,7 +7,7 @@ title: Sang Keun Choe
 ## Background
 I am a first-year CS PhD student in Language Technologies Institute at Carnegie Mellon University, and fortunate to be advised by <a href="http://www.cs.cmu.edu/~epxing/">Prof. Eric Xing</a>. Previously, I completed my MS in computer science at CMU under the guidance of <a href="https://www.cs.cmu.edu/~jgc/">Prof. Jaime Carbonell</a>. Prior to CMU, I earned BS in Electrical Engineering and Mathematics from Seoul National University.
 
-My research interests are broadly in neural networks *optimization*, and large-scale *distributed* machine learning.
+My research interests are broadly in large-scale distributed machine learning and its systems.
 
 <!--<a href="sangkeuc@cs.cmu.edu">sangkeuc@cs.cmu.edu</a>-->
 
@@ -37,15 +37,15 @@ My research interests are broadly in neural networks *optimization*, and large-s
 ## Publications
 
 <!--*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*-->
-<a href="https://sangkeun00.github.io">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a><br>Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, Eric P. Xing<br>*In OSDI*, 2021
+<a href="https://sangkeun00.github.io">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a>. Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, Eric P. Xing. *In OSDI*, 2021.
 
-<a href="https://sites.google.com/view/sedl-workshop/past-editions/2019-main/2019-contributed-posters?authuser=0">On Orthogonal Jacobian Regularization in Deep Neural Networks</a><br>**Sangkeun Choe**&#42;, Hosan Jeong&#42;, and Jaime Carbonell<br>*In Workshop on Science meets Engineering of Deep Learning at NeurIPS*, 2019
+<a href="https://sites.google.com/view/sedl-workshop/past-editions/2019-main/2019-contributed-posters?authuser=0">On Orthogonal Jacobian Regularization in Deep Neural Networks</a>. **Sangkeun Choe**&#42;, Hosan Jeong&#42;, and Jaime Carbonell. *In Workshop on Science meets Engineering of Deep Learning at NeurIPS*, 2019.
 
-<a href="https://arxiv.org/pdf/1910.02754.pdf">On Leveraging the Visual Modality for Neural Machine Translation</a><br>Vikas Raunak&#42;, **Sangkeun Choe**&#42;, Quanyang Lu&#42;, Yi Xu&#42;, and Florian Metze<br>*In INLG*, 2019 (Short ver.: *Workshop on New Tasks for Vision and Language at ICML*, 2020)
+<a href="https://arxiv.org/pdf/1910.02754.pdf">On Leveraging the Visual Modality for Neural Machine Translation</a>. Vikas Raunak&#42;, **Sangkeun Choe**&#42;, Quanyang Lu&#42;, Yi Xu&#42;, and Florian Metze. *In INLG*, 2019 (Short ver.: *Workshop on New Tasks for Vision and Language at ICML*, 2020).
 
-<a href="https://srvk.github.io/how2-challenge/assets/authors/TH2_paper_7.pdf">On Leveraging Visual Modality for ASR Error Correction</a><br>**Sangkeun Choe**&#42;, Quanyang Lu&#42;, Vikas Raunak&#42;, Yi Xu&#42;, and Florian Metze<br>*In Workshop on New Tasks for Vision and Language at ICML*, 2019
+<a href="https://srvk.github.io/how2-challenge/assets/authors/TH2_paper_7.pdf">On Leveraging Visual Modality for ASR Error Correction</a>. **Sangkeun Choe**&#42;, Quanyang Lu&#42;, Vikas Raunak&#42;, Yi Xu&#42;, and Florian Metze. *In Workshop on New Tasks for Vision and Language at ICML*, 2019.
 
-<a href="https://arxiv.org/abs/1712.00166">Audio Cover Song Identification using Convolutional Neural Network</a><br>Sungkyung Chang, Juheon Lee, **Sangkeun Choe**, and Kyogu Lee<br>*In ICASSP*, 2018 (Short ver.: *Workshop on ML4Audio at NIPS*, 2017)
+<a href="https://arxiv.org/abs/1712.00166">Audio Cover Song Identification using Convolutional Neural Network</a>. Sungkyung Chang, Juheon Lee, **Sangkeun Choe**, and Kyogu Lee. *In ICASSP*, 2018 (Short ver.: *Workshop on ML4Audio at NIPS*, 2017).
 
 (&#42; indicates equal contributions)
 
