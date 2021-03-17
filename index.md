@@ -37,7 +37,7 @@ My research interests are broadly in large-scale distributed machine learning an
 ## Publications
 
 <!--*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*-->
-<a href="https://sangkeun00.github.io" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a><br>Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, Eric P. Xing<br>*In OSDI*, 2021
+<a href="https://sangkeun00.github.io" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a><br>Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, Eric P. Xing<br>*In OSDI*, 2021
 
 <a href="https://sites.google.com/view/sedl-workshop/past-editions/2019-main/2019-contributed-posters?authuser=0" style="color:#BA55D3; text-decoration:none">On Orthogonal Jacobian Regularization in Deep Neural Networks</a><br>**Sangkeun Choe**&#42;, Hosan Jeong&#42;, and Jaime Carbonell<br>*In Workshop on Science meets Engineering of Deep Learning at NeurIPS*, 2019
 
