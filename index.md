@@ -94,4 +94,4 @@ I spend most of *my spare time* playing with my lil pupper, Betty. (<a href="htt
 
 <img src="./assets/betty.jpg" alt="betty" width="53%" height="auto">
 
-<br/>Last updated: March 2021<br/><br/>
+<br/>Last Update: March 2021<br/><br/>
