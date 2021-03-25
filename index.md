@@ -78,7 +78,7 @@ My research interests are broadly in <font color="FFA500">large-scale distribute
 `2011`
 **Gold Medal**, *Korea Collegiate Mathematical Competition*.
 
-`2011`
+`2010`
 **Silver Medal**, *Korea Mathematical Olympiad*.
 
 
