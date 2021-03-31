@@ -7,7 +7,7 @@ title: Sang Choe
 ## Background
 I am a first-year CS PhD student in Language Technologies Institute at Carnegie Mellon University, and fortunate to be advised by <a href="http://www.cs.cmu.edu/~epxing/">Prof. Eric Xing</a>. Previously, I completed my MS in computer science at CMU under the guidance of <a href="https://www.cs.cmu.edu/~jgc/">Prof. Jaime Carbonell</a>. Prior to CMU, I earned BS in Electrical Engineering and Mathematics from Seoul National University.
 
-My research interests are broadly in <font color="FFA500">large-scale distributed machine learning algorithms and systems</font>.
+My research interests are broadly in <font color="FFA500">efficient large-scale machine learning algorithms and systems</font>.
 
 <!--<a href="sangkeuc@cs.cmu.edu">sangkeuc@cs.cmu.edu</a>-->
 
@@ -53,7 +53,7 @@ My research interests are broadly in <font color="FFA500">large-scale distribute
 ## Experience
 
 `Summer 2021`
-**Research Intern**, *Microsoft Research*, USA.
+**Research Intern**, *Microsoft*, USA.
 
 `Summer 2018`
 **Research Engineer**, *HodooAI*, South Korea.
