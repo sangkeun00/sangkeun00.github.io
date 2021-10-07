@@ -62,6 +62,8 @@ My research interests are broadly in <font color="FFA500">efficient large-scale 
 **Sergeant**, *Ministry of National Defense of Republic of Korea*, South Korea.
 
 ## Awards & honors
+`2021`
+**Sansom Presidential Scholarship**, *Carnegie Mellon University*.
 
 `2018`
 **Kwanjeong Scholarship for Graduate Study**, *Kwanjeong Educational Foundation*.
@@ -94,4 +96,4 @@ I spend most of *my spare time* playing with my lil pupper, Betty. (<a href="htt
 
 <img src="./assets/betty.jpg" alt="betty" width="59%" height="auto">
 
-<br/>Last Update: July 2021<br/><br/>
+<br/>Last Update: October 2021<br/><br/>
