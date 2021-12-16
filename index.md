@@ -62,6 +62,8 @@ My research interests are broadly in <font color="FFA500">efficient large-scale 
 **Sergeant**, *Ministry of National Defense of Republic of Korea*, South Korea.
 
 ## Awards & honors
+`2021`
+**Sansom Presidential Scholarship**, *Carnegie Mellon University*.
 
 `2018`
 **Kwanjeong Scholarship for Graduate Study**, *Kwanjeong Educational Foundation*.
