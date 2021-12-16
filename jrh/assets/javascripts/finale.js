@@ -61,7 +61,7 @@ Segredario.Finale.prototype = {
               'From the beau',
              ],
   textIndex: 0,
-  textSpeed: 6.7,
+  textSpeed: 6.8,
 
   createSpeechBubble: function(character, text) {
     var currentSpeechBubble = this.game.world.add(new SpeechBubble(this.game, character.x + 20, character.y + 8, 114, text[this.textIndex]));
