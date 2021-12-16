@@ -44,6 +44,11 @@ Segredario.Credits.prototype = {
     this.createParagraph('Rose Egan');
     this.createParagraph('Samson');
     this.createParagraph('Ann-Marie Rodriguez');
+    this.createParagraph('Eun Young Ahn');
+    this.createParagraph('James Baker');
+    this.createParagraph('John Stauffer');
+    this.createParagraph('Deanna Huck');
+    this.createParagraph('Maria Canino');
 
     this.createTitle('Sounds');
     this.createParagraph('The Sounds Resource');
@@ -52,7 +57,6 @@ Segredario.Credits.prototype = {
     this.createParagraph('Everything happens to me');
     this.createParagraph('Mario Mayhem');
     this.createParagraph('Nintendo');
-    this.createParagraph('Copyright © 2016 Nintendo Co., Ltd.');
 
     this.createTitle('Produced By');
     this.createParagraph('The Beau Studio');
@@ -60,8 +64,9 @@ Segredario.Credits.prototype = {
     this.createTitle('Dedicated To');
     this.createParagraph('Juliana R. Hougland');
 
+    this.createParagraph('Copyright © 2021 The Beau Studio');
+    this.createParagraph('Illegal distribution of content is prohibited');
     this.createTitle('Merry Christmas!');
-    this.createTitle('Dont share with anyone else!');
 
     this.createTextAnimations();
   },
@@ -113,7 +118,7 @@ Segredario.Credits.prototype = {
 
   endingMessage: function() {
     var style = { font: "13px Verdana", fill: "#ffffff", align: "center" };
-    var content = 'I am anxiously waiting for you downstairs!';
+    var content = 'The End';
 
     var text = this.game.add.text(this.game.world.centerX, this.game.world.centerY, content, style);
     text.x = this.game.world.centerX - (text.width / 2);
