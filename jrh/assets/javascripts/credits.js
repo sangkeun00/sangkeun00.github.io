@@ -9,7 +9,7 @@ Segredario.Credits.prototype = {
     this.createText();
     this.createBMG();
 
-    this.createTitle('- Super Juliana -');
+    this.createTitle('The Project: Super Juliana');
 
     this.createParagraph('Sang Keun Choe');
     this.createParagraph('Juliana R. Hougland');
@@ -23,38 +23,45 @@ Segredario.Credits.prototype = {
     this.createParagraph('Ligia Hougland');
     this.createParagraph('Charles Hougland');
     this.createParagraph('Nicholas Hougland');
+    this.createParagraph('Iun Hee Kwon');
+    this.createParagraph('Ye Jung Choe');
     this.createParagraph('Kyleigh Peterson');
     this.createParagraph('Sara Dierberger');
     this.createParagraph('Yeojoon Youn');
     this.createParagraph('Wooje Chang');
+    this.createParagraph('Max Armour');
+    this.createParagraph('Alyssa Migs');
+    this.createParagraph('Korra');
+    this.createParagraph('Ron Sessa');
+    this.createParagraph('Lea Salvador');
+    this.createParagraph('Chester');
+    this.createParagraph('Colton Brown');
+    this.createParagraph('Taylor Norris');
+    this.createParagraph('Calvin');
+    this.createParagraph('Melanie Cuddyre');
+    this.createParagraph('Jack');
+    this.createParagraph('Theo');
+    this.createParagraph('Rose Egan');
+    this.createParagraph('Samson');
+    this.createParagraph('Ann-Marie Rodriguez');
 
-    this.createTitle('HTML5 Game Framework');
-    this.createParagraph('Phaser');
-    this.createParagraph('Copyright © 2016 Photon Storm Ltd.');
-    this.createTitle('Level Editor');
-    this.createParagraph('Tiled Map Editor');
-    this.createParagraph('Copyright © 2016 Thorbjørn Lindeijer');
-    this.createTitle('Pixel Editor');
-    this.createParagraph('Pixel.Tools');
-    this.createParagraph('Copyright © 2016 Alex Hanson-White');
-    this.createTitle('Sprites');
-    this.createParagraph('The Spriters Resource');
-    this.createParagraph('Nintendo');
-    this.createParagraph('Copyright © 2016 Nintendo Co., Ltd.');
     this.createTitle('Sounds');
     this.createParagraph('The Sounds Resource');
+    this.createParagraph('Have yourself a merry little Christmas');
+    this.createParagraph('All I want for Christmas is you');
+    this.createParagraph('Everything happens to me');
     this.createParagraph('Mario Mayhem');
     this.createParagraph('Nintendo');
     this.createParagraph('Copyright © 2016 Nintendo Co., Ltd.');
-    this.createTitle('Fontes');
-    this.createParagraph('Super Mario Bros Alphabet');
-    this.createParagraph('Copyright © 2016 Aryel Filipe');
-
-    this.createTitle('Thank You For Playing!');
 
     this.createTitle('Produced By');
-    this.createParagraph('Sang Keun Choe');
+    this.createParagraph('The Beau Studio');
 
+    this.createTitle('Dedicated To');
+    this.createParagraph('Juliana R. Hougland');
+
+    this.createTitle('Merry Christmas!');
+    this.createTitle('Dont share with anyone else!');
 
     this.createTextAnimations();
   },

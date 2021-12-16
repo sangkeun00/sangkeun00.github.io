@@ -96,7 +96,7 @@ Segredario.Game.prototype = {
     this.player.animations.stop('left');
     if(this.player.body.blocked.down) {
       this.player.body.velocity.y = -200;
-      this.jumpSound.play();
+      //this.jumpSound.play();
     }
   },
 
@@ -175,7 +175,7 @@ Segredario.Game.prototype = {
   },
 
   coinCollect: function(player, coin) {
-    this.coinSound.play();
+    //this.coinSound.play();
     coin.kill();
   },
 
@@ -212,9 +212,9 @@ Segredario.Game.prototype = {
 
     if(hitY <= goomba.height) {
       this.setMovementSprite(player, 0, 17);
-      this.fireBallSound.play('', 0, 1, false, false);
+      //this.fireBallSound.play('', 0, 1, false, false);
     } else {
-      this.squishSound.play('', 0, 1, false, false);
+      //this.squishSound.play('', 0, 1, false, false);
     }
 
     goomba.animations.play('kill', null, false, true);
@@ -225,7 +225,7 @@ Segredario.Game.prototype = {
     { gid: 676, name: 'yoshi', message: 'This is a Christmas letter with fake doves from your poor nerd boyfriend' },
     { gid: 677, name: 'luigi', message: 'Ive been enjoying all these ups and downs driven by you' },
     { gid: 678, name: 'toad', message: 'My life has been like a roller coaster since I met you' },
-    { gid: 679, name: 'dk', message: 'It sometimes gets really HARD' },
+    { gid: 679, name: 'dk', message: 'sometimes even gets really HARD' },
     { gid: 680, name: 'diddy', message: 'But as you know, I am a pervert' },
     { gid: 681, name: 'fox', message: 'First off, you are very annoying and bother me all the time' },
     { gid: 682, name: 'pikachu', message: 'I dont know where it goes, but Id like to continue riding Juliana coaster' },
@@ -286,7 +286,7 @@ Segredario.Game.prototype = {
     if(this.player.y === holeY) {
       this.stopCaptureKeyboard();
 
-      this.jumpSound.play();
+      //this.jumpSound.play();
 
       if(this.currentPlayerDirection === 'left'){
         var x = this.lastBlockedLayerPlayerCollide.x + this.player.width;
@@ -327,9 +327,9 @@ Segredario.Game.prototype = {
   },
 
   createSounds: function() {
-    this.coinSound = this.game.add.audio('coin');
-    this.jumpSound = this.game.add.audio('jump');
-    this.squishSound = this.game.add.audio('squish');
-    this.fireBallSound = this.game.add.audio('fire-ball');
+    //this.coinSound = this.game.add.audio('coin');
+    //this.jumpSound = this.game.add.audio('jump');
+    //this.squishSound = this.game.add.audio('squish');
+    //this.fireBallSound = this.game.add.audio('fire-ball');
   }
 };
