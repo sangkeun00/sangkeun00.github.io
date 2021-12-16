@@ -113,7 +113,7 @@ Segredario.Credits.prototype = {
 
   endingMessage: function() {
     var style = { font: "13px Verdana", fill: "#ffffff", align: "center" };
-    var content = 'A nova fase apenas começou... ';
+    var content = 'Come downstaris see me!!!';
 
     var text = this.game.add.text(this.game.world.centerX, this.game.world.centerY, content, style);
     text.x = this.game.world.centerX - (text.width / 2);
