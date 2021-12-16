@@ -66,7 +66,7 @@ Segredario.Credits.prototype = {
 
     this.createTitle('Copyright');
     this.createParagraph('Copyright © 2021 The Beau Studio');
-    this.createParagraph('Illegal distribution of content is prohibited');
+    this.createParagraph('Public distribution of content is illegal');
     
     this.createTitle('Merry Christmas!');
 
