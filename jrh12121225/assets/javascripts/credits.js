@@ -44,6 +44,7 @@ Segredario.Credits.prototype = {
     this.createParagraph('Rose Egan');
     this.createParagraph('Samson');
     this.createParagraph('Ann-Marie Rodriguez');
+    this.createParagraph('Mary Garrett');
     this.createParagraph('Eun Young Ahn');
     this.createParagraph('James Baker');
     this.createParagraph('John Stauffer');
