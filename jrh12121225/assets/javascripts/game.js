@@ -222,7 +222,7 @@ Segredario.Game.prototype = {
 
   npcs: [
     { gid: 675, name: 'mario', message: 'Hello, my lovely girlfriend, Juliana' },
-    { gid: 676, name: 'yoshi', message: 'This is a Christmas letter with fake doves from your poor nerd boyfriend' },
+    { gid: 676, name: 'yoshi', message: 'This is a Christmas card with fake doves from your poor nerd boyfriend' },
     { gid: 677, name: 'luigi', message: 'Ive been enjoying all these ups and downs driven by you' },
     { gid: 678, name: 'toad', message: 'My life has been like a roller coaster since I met you' },
     { gid: 679, name: 'dk', message: 'sometimes even gets really HARD' },
