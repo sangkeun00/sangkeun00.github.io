@@ -229,7 +229,7 @@ Segredario.Game.prototype = {
     { gid: 680, name: 'diddy', message: 'But as you know, I am a pervert' },
     { gid: 681, name: 'fox', message: 'First off, you are very annoying and bother me all the time' },
     { gid: 682, name: 'pikachu', message: 'I dont know where it goes, but Id like to continue riding Juliana coaster' },
-    { gid: 683, name: 'link', message: 'Gosh, I am in love with you' },
+    { gid: 683, name: 'link', message: 'Its the best delusion ever, and, gosh, I am in love with you' },
   ],
 
   currentSpeechBubble: null,
