@@ -39,7 +39,7 @@ Segredario.Credits.prototype = {
     this.createParagraph('Taylor Norris');
     this.createParagraph('Calvin');
     this.createParagraph('Melanie Cuddyre');
-    this.createParagraph('Jack');
+    this.createParagraph('Jack Leech');
     this.createParagraph('Theo');
     this.createParagraph('Rose Egan');
     this.createParagraph('Samson');
@@ -47,7 +47,7 @@ Segredario.Credits.prototype = {
     this.createParagraph('Mary Garrett');
     this.createParagraph('Eun Young Ahn');
     this.createParagraph('James Baker');
-    this.createParagraph('John Stauffer');
+    this.createParagraph('John Willian Stauffer');
     this.createParagraph('Deanna Huck');
     this.createParagraph('Maria Canino');
 
