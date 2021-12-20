@@ -39,7 +39,7 @@ Segredario.Credits.prototype = {
     this.createParagraph('Taylor Norris');
     this.createParagraph('Calvin');
     this.createParagraph('Melanie Cuddyre');
-    this.createParagraph('Jack Leech');
+    this.createParagraph('Jack');
     this.createParagraph('Theo');
     this.createParagraph('Rose Egan');
     this.createParagraph('Samson');
