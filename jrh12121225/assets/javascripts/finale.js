@@ -55,13 +55,13 @@ Segredario.Finale.prototype = {
   mauroText: [
               'So Merry Christmas Juliana (keep watching)',
               'I am so happy with you that I dont even need any Christmas gifts',
-              'But if you enjoyed my Christmas letter',
+              'But if you enjoyed my Christmas card',
               'Can you come downstairs and say good night?',
-              'I love you so much',
+              'I love you <3',
               'From the beau',
              ],
   textIndex: 0,
-  textSpeed: 6.82,
+  textSpeed: 6.8,
 
   createSpeechBubble: function(character, text) {
     var currentSpeechBubble = this.game.world.add(new SpeechBubble(this.game, character.x + 20, character.y + 8, 114, text[this.textIndex]));
