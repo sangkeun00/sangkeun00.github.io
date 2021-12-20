@@ -222,14 +222,14 @@ Segredario.Game.prototype = {
 
   npcs: [
     { gid: 675, name: 'mario', message: 'Hello, my lovely girlfriend, Juliana' },
-    { gid: 676, name: 'yoshi', message: 'This is a Christmas card with delusional doves from your delusional escapist boyfriend' },
+    { gid: 676, name: 'yoshi', message: 'This is a Christmas letter with fake doves from your poor nerd boyfriend' },
     { gid: 677, name: 'luigi', message: 'Ive been enjoying all these ups and downs driven by you' },
     { gid: 678, name: 'toad', message: 'My life has been like a roller coaster since I met you' },
     { gid: 679, name: 'dk', message: 'sometimes even gets really HARD' },
     { gid: 680, name: 'diddy', message: 'But as you know, I am a pervert' },
-    { gid: 681, name: 'fox', message: 'I have to start this card by saying you are very annoying and bother me all the time' },
-    { gid: 682, name: 'pikachu', message: 'I feel so happy that I met you and all these happened' },
-    { gid: 683, name: 'link', message: 'I dont know the destination, but Id like to continue riding Juliana coaster. Gosh, Im in love with you' },
+    { gid: 681, name: 'fox', message: 'First off, you are very annoying and bother me all the time' },
+    { gid: 682, name: 'pikachu', message: 'I dont know where it goes, but Id like to continue riding Juliana coaster' },
+    { gid: 683, name: 'link', message: 'Gosh, I am in love with you' },
   ],
 
   currentSpeechBubble: null,
