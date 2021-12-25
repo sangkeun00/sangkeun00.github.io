@@ -135,7 +135,7 @@ Segredario.Finale.prototype = {
   },
 
   sceneFour: function() {
-    var ring = this.game.add.sprite(142, 166, 'ring');
+    var ring = this.game.add.sprite(142, 166, 'necklace');
 
     this.game.time.events.add(Phaser.Timer.SECOND * 1, function() {
       this.game.add.tween(ring).to({
