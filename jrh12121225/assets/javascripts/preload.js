@@ -45,7 +45,7 @@ Segredario.Preload.prototype = {
     this.loadSounds();
 
     this.load.spritesheet('mauro', 'assets/sprites/mauro.png', 25, 27);
-    this.load.spritesheet('ring', 'assets/sprites/ring.png', 7, 9);
+    this.load.spritesheet('ring', 'assets/sprites/necklace.png', 7, 9);
     this.load.spritesheet('heart', 'assets/sprites/heart.png', 7, 8);
   },
 
