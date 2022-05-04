@@ -4,19 +4,15 @@ title: Sang Choe
 ---
 # Sang Choe (최상근)
 
-## Background
+## Biography
 I am a second-year CS PhD student in Language Technologies Institute at Carnegie Mellon University, and fortunate to be advised by <a href="http://www.cs.cmu.edu/~epxing/">Prof. Eric Xing</a>. Previously, I completed my MS in computer science at CMU under the guidance of <a href="https://www.cs.cmu.edu/~jgc/">Prof. Jaime Carbonell</a>. Prior to CMU, I earned BS in Electrical Engineering and Mathematics from Seoul National University.
 
-My research interests are broadly in <font color="FFA500">efficient large-scale machine learning algorithms and systems</font>.
-
-<!--<a href="sangkeuc@cs.cmu.edu">sangkeuc@cs.cmu.edu</a>-->
+My research interests are in <font color="FFA500">developing distributed systems for large-scale AutoML</font>.
 
 <div id="webaddress">
   <a href="mailto:sangkeuc@cs.cmu.edu"><i class="fa fa-envelope-open"></i> sangkeuc@cs.cmu.edu</a> |
   <a href="./assets/resume.pdf"><i class="fas fa-file-pdf"></i> Resume</a> |
   <a href="https://github.com/sangkeun00"><i class="fab fa-github"></i> sangkeun00</a>
-  <!--<a href="https://sangkeun00.github.io"><i class="fas fa-home"></i> sangkeun00.github.io</a>-->
-  <!--<a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>-->
 </div>
 
 ## Education
@@ -33,11 +29,9 @@ My research interests are broadly in <font color="FFA500">efficient large-scale 
 `2018`
 **B.S., Mathematics**, *Seoul National University*, South Korea.
 
+## Publication
 
-## Publications
-
-<!--*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*-->
-<a href="https://sangkeun00.github.io" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a><br>Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, and Eric P. Xing<br>*In OSDI*, 2021<br>&#x1F3C6; <span style="color:red">Jay Lepreau Best Paper Award!</span>
+<a href="https://arxiv.org/abs/2008.12260" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a><br>Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, and Eric P. Xing<br>*In OSDI*, 2021<br>&#x1F3C6; <span style="color:red">Jay Lepreau Best Paper Award!</span>
 
 <a href="https://sites.google.com/view/sedl-workshop/past-editions/2019-main/2019-contributed-posters?authuser=0" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'">On Orthogonal Jacobian Regularization in Deep Neural Networks</a><br>**Sang Keun Choe**&#42;, Hosan Jeong&#42;, and Jaime Carbonell<br>*In Workshop on Science meets Engineering of Deep Learning at NeurIPS*, 2019
 
@@ -49,6 +43,9 @@ My research interests are broadly in <font color="FFA500">efficient large-scale 
 
 (&#42; indicates equal contributions)
 
+## Software
+
+<a href="https://sangkeun00.github.io" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'">Betty: Multi-Level Optimization Library</a>
 
 ## Experience
 
@@ -96,4 +93,4 @@ I spend most of *my spare time* playing with my lil pupper, Betty. (<a href="htt
 
 <img src="./assets/betty.jpg" alt="betty" width="59%" height="auto">
 
-<br/>Last Update: Dec 202<a href="./jrh12121225/game.html" style="text-decoration:none">1</a><br/><br/>
+<br/>Last Update: Apr 2022
