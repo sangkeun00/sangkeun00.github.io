@@ -122,6 +122,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
+	color: #603b1c;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
@@ -159,14 +160,14 @@ a {
 }
 
 a:hover {
-	color:#ffc45f
+	color:#ffaa17
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #49290f;
+	color: #603b1c;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
