@@ -59,7 +59,7 @@ body {
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
-	color: #444452;
+	color: #0b090f;
 }
 
 p {
@@ -136,7 +136,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #007bff;
+	color: #bb6e26;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -159,14 +159,14 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color:#ffc45f
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #BA55D3;
+	color: #49290f;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
