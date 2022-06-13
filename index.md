@@ -5,9 +5,13 @@ title: Sang Choe
 # Sang Choe
 
 ## Background
-I am a second-year CS PhD student in Language Technologies Institute at Carnegie Mellon University, and fortunate to be advised by <a href="http://www.cs.cmu.edu/~epxing/">Prof. Eric Xing</a>. Previously, I completed my MS in computer science at CMU under the guidance of <a href="https://www.cs.cmu.edu/~jgc/">Prof. Jaime Carbonell</a>. Prior to CMU, I earned BS in Electrical Engineering and Mathematics from Seoul National University.
+I am a second-year CS PhD student in Language Technologies Institute at Carnegie Mellon University (CMU), and fortunate to be advised by <a href="http://www.cs.cmu.edu/~epxing/">Prof. Eric Xing</a>. Previously, I completed my MS in computer science at CMU under the guidance of <a href="https://www.cs.cmu.edu/~jgc/">Prof. Jaime Carbonell</a>. Prior to CMU, I earned BS in Electrical Engineering and Mathematics from Seoul National University.
 
-My research interests are broadly in <font color="ffaa17">systems/applications for AutoML and meta-learning</font>.
+My research interests are in *multilevel optimization (MLO) or generalized meta-learning*. More specifically, I am currently working on:
+- &#128006;&nbsp;&nbsp;developing an automatic differentiation engine for MLO
+- &#128006;&nbsp;&nbsp;developing/implementing distributed training and memory optimizing techniques for large-scale MLO
+- &#128006;&nbsp;&nbsp;MLO applications including AutoML, modular ML, and reinforcement learning.
+
 
 <!--<a href="sangkeuc@cs.cmu.edu">sangkeuc@cs.cmu.edu</a>-->
 
@@ -69,6 +73,9 @@ My research interests are broadly in <font color="ffaa17">systems/applications f
 `2021`
 **Sansom Presidential Scholarship**, *Carnegie Mellon University*.
 
+`2021`
+**Jay Lepreau Best Paper Award**, *OSDI*.
+
 `2018`
 **Kwanjeong Scholarship for Graduate Study**, *Kwanjeong Educational Foundation*.
 
@@ -96,7 +103,7 @@ My research interests are broadly in <font color="ffaa17">systems/applications f
 
 ## Miscellaneous
 
-I spend most of *my spare time* playing with my lil pupper, Betty. (<a href="https://www.instagram.com/bettyberry___" style="color:#49290f; text-decoration:none"><i class="fab fa-instagram"></i> bettyberry___</a>)
+I spend most of *my spare time* playing with my lil pupper, Betty (<a href="https://www.instagram.com/bettyberry___" style="color:#49290f; text-decoration:none"><i class="fab fa-instagram"></i> bettyberry___</a>).
 
 <img src="./assets/betty.jpg" alt="betty" width="59%" height="auto">
 
