@@ -41,6 +41,8 @@ My research interests are in *multilevel optimization (MLO) or generalized meta-
 ## Publications
 
 <!--*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*-->
+<a href="temp.html" style="color:#603b1c; text-decoration:none" onmouseover="this.style.color='#ffaa17'; this.style.textDecoration='none'" onmouseout="this.style.color='#603b1c'; this.style.textDecoration='none'">Betty: An Automatic Differentiation Library for Multilevel Optimization</a><br>**Sang Keun Choe**, Willie Neiswanger, Pengtao Xie, and Eric Xing<br>*Preprint*, 2021
+
 <a href="https://arxiv.org/abs/2008.12260" style="color:#603b1c; text-decoration:none" onmouseover="this.style.color='#ffaa17'; this.style.textDecoration='none'" onmouseout="this.style.color='#603b1c'; this.style.textDecoration='none'">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a><br>Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, and Eric P. Xing<br>*In OSDI*, 2021<br>&#x1F3C6; <span style="color:red">Jay Lepreau Best Paper Award!</span>
 
 <a href="https://sites.google.com/view/sedl-workshop/past-editions/2019-main/2019-contributed-posters?authuser=0" style="color:#603b1c; text-decoration:none" onmouseover="this.style.color='#ffaa17'; this.style.textDecoration='none'" onmouseout="this.style.color='#603b1c'; this.style.textDecoration='none'">On Orthogonal Jacobian Regularization in Deep Neural Networks</a><br>**Sang Keun Choe**&#42;, Hosan Jeong&#42;, and Jaime Carbonell<br>*In Workshop on Science meets Engineering of Deep Learning at NeurIPS*, 2019
@@ -55,7 +57,7 @@ My research interests are in *multilevel optimization (MLO) or generalized meta-
 
 
 ## Software
-<a href="https://arxiv.org/abs/2008.12260" style="color:#49290f; text-decoration:none" onmouseover="this.style.color='#ffc45f'; this.style.textDecoration='none'" onmouseout="this.style.color='#49290f'; this.style.textDecoration='none'">Betty: An Automatic Differentiation Library for Multilevel Optimization</a>
+<a href="https://github.com/leopard-ai/betty" style="color:#49290f; text-decoration:none" onmouseover="this.style.color='#ffc45f'; this.style.textDecoration='none'" onmouseout="this.style.color='#49290f'; this.style.textDecoration='none'">Betty: An Automatic Differentiation Library for Multilevel Optimization</a>
 
 
 ## Experience
@@ -107,4 +109,4 @@ I spend most of *my spare time* playing with my lil pupper, Betty (<a href="http
 
 <img src="./assets/betty.jpg" alt="betty" width="59%" height="auto">
 
-<br/>Last Update: June 2022<br/>
+<br/>Last Update: July 2022<br/>
