@@ -41,7 +41,7 @@ My research interests are in *multilevel optimization (MLO) or generalized meta-
 ## Publications
 
 <!--*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*-->
-<a href="temp.html" style="color:#603b1c; text-decoration:none" onmouseover="this.style.color='#ffaa17'; this.style.textDecoration='none'" onmouseout="this.style.color='#603b1c'; this.style.textDecoration='none'">Betty: An Automatic Differentiation Library for Multilevel Optimization</a><br>**Sang Keun Choe**, Willie Neiswanger, Pengtao Xie, and Eric Xing<br>*Preprint*, 2021
+<a href="https://arxiv.org/pdf/2207.02849.pdf" style="color:#603b1c; text-decoration:none" onmouseover="this.style.color='#ffaa17'; this.style.textDecoration='none'" onmouseout="this.style.color='#603b1c'; this.style.textDecoration='none'">Betty: An Automatic Differentiation Library for Multilevel Optimization</a><br>**Sang Keun Choe**, Willie Neiswanger, Pengtao Xie, and Eric Xing<br>*Preprint*, 2021
 
 <a href="https://arxiv.org/abs/2008.12260" style="color:#603b1c; text-decoration:none" onmouseover="this.style.color='#ffaa17'; this.style.textDecoration='none'" onmouseout="this.style.color='#603b1c'; this.style.textDecoration='none'">Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning</a><br>Aurick Qiao, **Sang Keun Choe**, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Greg Ganger, and Eric P. Xing<br>*In OSDI*, 2021<br>&#x1F3C6; <span style="color:red">Jay Lepreau Best Paper Award!</span>
 
