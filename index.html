@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<!--
+    Plain-Academic by Vasilios Mavroudis
+    Released under the  Simplified BSD License/FreeBSD (2-clause) License.
+    https://github.com/mavroudisv/plain-academic
+-->
+
+<html lang="en">
+<head>
+  <title>Victor Akinwande's Homepage</title>
+  <meta charset="utf-8">
+  <link rel="icon" href="files/photo.jpeg" type="image/icon type">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name=description content="Victor Akinwande's Homepage. Doctoral Student, Carnegie Mellon University Computer Science Department. Machine learning researcher.">
+  <link rel="stylesheet" href="files/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link href="files/font.css" rel='stylesheet' type='text/css'>
+</head>
+
+<style>
+
+:root {
+    --primary-color: #1B6FC2;
+    --secondary-color: #536390;
+    --font-color: #23476A;
+    --bg-color: #FEFDF9;
+    --heading-color: #292922;
+}
+
+[data-theme="dark"] {
+    --primary-color: #66CCCC;
+    --secondary-color: #818cab;
+    --font-color: #CCCCCC;
+    --bg-color: #2C2C2C;
+    --heading-color: #818cab;
+}
+
+hr {
+  display: block;
+  margin-top: 2.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: .5px;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--font-color);
+}
+
+a {
+    color: var(--primary-color);
+}
+a:hover {
+    color: var(--primary-color);
+}
+
+/*Simple css to style it like a toggle switch*/
+.theme-switch-wrapper {
+  display: flex;
+  align-items: center;
+
+  em {
+    margin-left: 10px;
+    font-size: 1rem;
+  }
+}
+
+
+.theme-switch {
+  display: inline-block;
+  top: 7px;
+  height: 27px;
+  right: 70px;
+  position: absolute;
+  width: 32px;
+}
+
+.theme-switch input {
+  display:none;
+}
+
+.slider {
+  background-color: #b3b3b3;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 12px;
+  transition: .4s;
+}
+
+.slider:before {
+  background-color: #FEFDF9;
+  top: 0;
+  content: "";
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  transition: .4s;
+  width: 15px;
+}
+
+input:checked + .slider {
+  background-color: #66CCCC;
+}
+
+input:checked + .slider:before {
+  transform: translateX(17px);
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.navbar-inverse {
+  border-radius: 0px;
+}
+
+/* style.css */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #000000;
+  color: white;
+  padding: 8px;
+  z-index: 100;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+</style>
+
+<body>
+<a class="skip-link" href="#main">Skip to main</a>
+<!-- Navigation -->
+    <nav class="navbar navbar-inverse">
+      <div class="container">
+    <ul class="nav navbar-nav">
+              <li><a href="https://home.victorakinwande.com/">Victor Akinwande's Homepage</a></li>
+    </ul>
+    <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="checkbox">
+            <input type="checkbox" id="checkbox" />
+            <div class="slider round"></div>
+      </label>
+    </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            <!-- Entries Column -->
+            <div class="col-md-3" >
+                <!-- Contact Info on the Sidebar and image -->
+                <div style="font-family: Arial, Helvetica, sans-serif; font-size: 30px;"><b>Victor Akinwande</b></div><br>
+                <img class="img-responsive" src="files/photo.jpeg" height="400" width="400" alt=""><br>
+                <p>Doctoral Student, Carnegie Mellon University Computer Science Department</p>
+                <p>Prev: Research Engineer,<br>
+                IBM Research | Africa<br></p>
+                <p><b>Email:</b> aknvictor [at] gmail [dot] com<br>
+                     <b>Office:</b> GHC 5003<br>
+<!--                 <b>Quote:</b> Fate whispers to the warrior, "You cannot withstand the storm". The warrior whispers back, "I am the storm".<br></p> -->
+                <dl>
+                <!-- <dd><a href="https://home.victorakinwande.com/files/pdfs/resume.pdf" rel="noopener" target="_blank">CV</a></dd> -->
+                <dd><a href="https://scholar.google.com/citations?hl=en&user=-FmgQDMAAAAJ&view_op=list_works&sortby=pubdate" rel="noopener" rel="noopener" target="_blank">Google Scholar</a></dd>
+                <dd><a href="https://github.com/viktour19" rel="noopener" target="_blank">GitHub</a></dd>
+                <dd><a href="https://twitter.com/aknvictor" rel="noopener" target="_blank">Twitter</a></dd>
+                </dl>
+                </p>
+
+            </div>
+
+      <!-- main info -->
+      <div class="col-md-8" id="main" >
+      <div style="margin-top:5vh; text-align:justify;">
+
+       <div  style="text-align:left;">
+      <div style="font-family: Arial, Helvetica, sans-serif; font-size: 22px;"><b>Education</b></div><br>
+
+        <div style="text-align:left;">
+            <b>Carnegie Mellon University</b>
+            <span style="float:right; font-size:12px">
+                    August 2021 &ndash; Present
+            </span>
+        </div>
+        PhD Computer Science. Advisors: Prof. Zico Kolter, Prof. Kun Zhang.
+        <br><br>
+
+        <div style="text-align:left;">
+            <b>Carnegie Mellon University</b>
+            <span style="float:right; font-size:12px">
+                August 2016 &ndash; May 2018
+            </span>
+        </div>
+        MSc Information Technology. Advisor: Prof. David Vernon.<br><br>
+
+        <div style="text-align:left;">
+            <b>University of Ilorin</b>
+            <span style="float:right; font-size:12px">
+                September 2011 &ndash; August 2015
+            </span>
+        </div>
+        BSc <i>Computer Science.</i>
+
+      </div>
+
+<!--       <div  style="text-align:left;">
+      <div style="font-family: Arial, Helvetica, sans-serif; font-size: 22px;"><b>Education</b></div><br>
+        <ul>
+        <li> MSc Information Technology, <b>Carnegie Mellon University</b> <br> </li>
+        <li> BSc Computer Science, <b>University of Ilorin</b> <br> </li>
+        </ul>
+      </div>
+-->
+      <hr>
+
+      <div  style="margin-top:3vh; text-align:left;">
+      <div style="font-family: Arial, Helvetica, sans-serif; font-size: 22px;"><b>Research</b></div><br>
+      <p>
+        My research goal is to develop tools for building learning systems that generalise well out of distribution, do not fail spuriously and adapt to changing environments gracefully. I attempt to achieve this through the lens of representation learning using tools from generative modelling and optimisation. I've worked on algorithms to ensure robustness of deep learning models for example, being able to detect when such models are processing adversarial inputs, techniques for explainability of machine learning models, and causal inference for global health.
+      </p>
+      </div>
+
+      <hr>
+
+      <div  style="margin-top:3vh; text-align:left;">
+      <div align="justify", style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;"><b>Publications</b></div><br>
+      <p>
+        C13. Girmaw Abebe Tadesse, Megan Marx Delaney, Victor Akinwande, William Ogallo, Claire-Helene Mershon, Katherine E. A. Semrau, Skyler Speakman. <b>Principled Subpopulation Analysis of the BetterBirth Study and the Impact of WHO’s Safe Childbirth Checklist Intervention</b>. In: AMIA, 2022. Distingushed Paper Award Nominee. <u><a href="#" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+      <p>
+        C12. Lingjing Kong, Shaoan Xie, Weiran Yao, Yujia Zheng, Guangyi Chen, Petar Stojanov, Victor Akinwande, Kun Zhang. <b>Partial disentanglement for domain adaptation</b>. In: ICML, 2022. <u><a href="https://proceedings.mlr.press/v162/kong22a/kong22a.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+      <p>
+        J2. Vesna Barros, Itay Manes, Victor Akinwande, Celia Cintas, Osnat Bar-Shira, Michal Ozery-Flato, Yishai Shimoni, Michal Rosen-Zvi. <b>A causal inference approach for estimating effects of non-pharmaceutical interventions during Covid-19 pandemic</b>. In: PLOS ONE, 2022. <u><a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0265289&type=printable" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+      <p>
+        C11. Skyler Speakman, Girmaw Abebe Tadesse, Victor Abayomi Akinwande, William Ogallo, Claire-Helene Mersho, Daniel B Neill.  <b>Automatic Stratification of Tabular Health Data</b>. In: AMIA, 2021. <u><a href="#" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+      <p>
+        C10. Celia Cintas, Victor Akinwande, Ramya Raghavendra, Girmaw Abebe Tadesse, Aisha Walcott-Bryant, Charity Wayua, Fredrick Makumbi, Rhoda K Wanyenze, Komminist Weldemariam. <b>Data-Driven Sequential Uptake Pattern Discovery for Family Planning Studies</b>. In: AMIA, 2021. <u><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861714/pdf/3572746.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p>
+        C9. Ifrah Idrees, Skyler Speakman, William Ogallo, Victor Akinwande. <b>Successes and Misses of Global Health Development: Detecting Temporal Concept Drift of Under-5 Mortality Prediction Models with Bias Scan</b>. In: AMIA, 2021. <u><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8378632/pdf/3478102.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+
+      <p>
+        C8. Celia Cintas, Payel Das, Brian Quanz, Skyler Speakman, Victor Akinwande, Pin-Yu Chen. <b>Towards creativity characterization of generative models via group-based subset scanning</b>. In: Workshop on Synthetic Data Generation, ICLR, 2021. <u><a href="https://arxiv.org/pdf/2104.00479" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p>
+        C7. Victor Akinwande, Celia Cintas, Skyler Speakman, Srihari Sridharan. <b>Identifying Audio Adversarial Examples via Anomalous Pattern Detection</b>. In: Workshop on Adversarial Learning Methods for Machine Learning and Data Mining, KDD, 2020. <u><a href="https://arxiv.org/pdf/2002.05463" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p>
+        C6. Celia Cintas, Skyler Speakman, Victor Akinwande, William Ogallo, Komminist Weldemariam, Srihari Sridharan, Edward McFowland. <b>Detecting Adversarial Attacks via Subset Scanning of Autoencoder Activations and Reconstruction Error</b>. In: IJCAI, 2020. <u><a href="https://www.ijcai.org/Proceedings/2020/0122.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p>
+        C5. William Ogallo, Skyler Speakman, Victor Akinwande, Kush R Varshney, Aisha Walcott-Bryant, Charity Wayua, Komminist Weldemariam. <b>Inspection of Blackbox Models for Evaluating Vulnerability in Maternal, Newborn, and Child Health</b>. In: IJCAI, 2020 Demo Track. <u><a href="https://www.ijcai.org/Proceedings/2020/0770.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p>
+        C4. Celia Cintas, Ramya Raghavendra, Victor Akinwande, Aisha Walcott-Bryant, Charity Wayua, Komminist Weldemariam. <b>Decision Platform for Pattern Discovery and Causal Effect Estimation in Contraceptive Discontinuation</b>. In: IJCAI, 2020 Demo Track. <u><a href="https://www.ijcai.org/Proceedings/2020/0772.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p>
+        C3. William Ogallo, Skyler Speakman, Victor Akinwande, Kush R Varshney, Aisha Walcott-Bryant, Charity Wayua, Komminist Weldemariam, Claire-Helene Mershon, Nosa Orobaton. <b>Identifying Factors Associated with Neonatal Mortality in Sub-Saharan Africa using Machine Learning</b>. In: AMIA, 2020. <u><a href="https://www.medrxiv.org/content/medrxiv/early/2020/10/16/2020.10.14.20212225.full.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p>
+        C2. Celia Cintas, William Ogallo, Aisha Walcott, Sekou L Remy, Victor Akinwande, Samuel Osebe. <b>Towards neural abstractive clinical trial text summarization with sequence to sequence models</b>. In: ICHI, 2019. <u><a href="https://home.victorakinwande.com/files/pdfs/cintas-clin-summ.pdf" target="_blank">[PDF]</a></u>
+      </p>
+      <p>
+        A2. Victor Akinwande, Sekou L Remy. <b>Characterizing the hyper-parameter space of LSTM language models for mixed context applications</b>. In: ArXiv, 2017. <u><a href="https://arxiv.org/pdf/1712.03199.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p>
+        A1. Victor Akinwande. <b>Security assessment of blockchain-as-a-service (BaaS) platforms</b>. 2017. <u><a href="https://home.victorakinwande.com/files/pdfs/akinwande-sec-baas.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p>
+        J1. Olayiwola Bello, Victor Akinwande, Oluwatoyosi Jolayemi, Ahmed Ibrahim. <b>Open data portals in Africa: an analysis of open government data initiatives</b>. In: African journal of library, archives & information science, 26(2):97, 2016. <u><a href="https://home.victorakinwande.com/files/pdfs/bello-open-data-portals.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p>
+        C1. Victor Akinwande, Kayode Adewole, Olayiwola Bello, Abimbola Akintola. <b>Automatic and real-time pothole detection and traffic monitoring system using smartphone technology</b>. In: International Conference on Computer Science Research and Innovations (CoSRI), 2015. <u><a href="https://home.victorakinwande.com/files/pdfs/akinwande-potholes.pdf" rel="noopener" target="_blank">[PDF]</a></u>
+      </p>
+
+      <p style="font-size: 6px;">
+        C2. Copyright 2019 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE. <br>
+        A1. Copyright 2017 Victor Akinwande, Sekou L Remy. This Open Access article is distributed under the terms of the Creative Commons License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. <br>
+        A2. Copyright 2017 Victor Akinwande. This Open Access article is distributed under the terms of the Creative Commons License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. <br>
+        J1. Copyright 2016 Olayiwola Bello, Victor Akinwande, Oluwatoyosi Jolayemi, Ahmed Ibrahim. This Open Access article is distributed under the terms of the Creative Commons License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. <br>
+        C1. Copyright 2015 Victor Akinwande, Kayode Adewole, Olayiwola Bello, Abimbola Akintola. This Open Access article is distributed under the terms of the Creative Commons License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited.
+      </p>
+      </div>
+      <hr>
+
+ <!-- Other people may like it too! -->
+     <div>
+    <p style="font-size:0.8em; float:right; color:#b5bec9;"> Thanks to <u> <a style="color:#b5bec9" target="_blank" rel="noopener" href="https://github.com/alisiahkoohi">Ali Siahkoohi</a></u> for the <u><a style="color:#b5bec9" rel="noopener" target="_blank" rel="noopener" href="https://github.com/alisiahkoohi/alisiahkoohi.github.io">template</a></u>!</p>
+    </div>
+    <!-- /.container -->
+
+
+<script>
+
+const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+
+function switchTheme(e) {
+    if (e.target.checked) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+    else {
+        document.documentElement.setAttribute('data-theme', 'light');
+    }
+}
+
+toggleSwitch.addEventListener('change', switchTheme, false);
+
+function switchTheme(e) {
+    if (e.target.checked) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark'); //add this
+    }
+    else {
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light'); //add this
+    }
+}
+
+
+const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+
+if (currentTheme) {
+    document.documentElement.setAttribute('data-theme', currentTheme);
+
+    if (currentTheme === 'dark') {
+        toggleSwitch.checked = true;
+    }
+}
+
+</script>
+
+
+</body>
+</html>
+
+<!-- - Principled Subpopulation Analysis of the BetterBirth Study and the
+Impact of WHO’s Safe Childbirth Checklist Intervention (AMIA 2022) Distingushed Paper Award.
+-
+- -->
